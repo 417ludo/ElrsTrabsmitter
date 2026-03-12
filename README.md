@@ -17,7 +17,7 @@ It can use espnow and elrs
 -a 3.3v regulator  
 # Where is the code ?
 Elrs protocol is very difficult and not my level so I use the code of ExpressLRS here is his github:
-https://github.com/ExpressLRS/ExpressLRS/tree/master   
+https://github.com/ExpressLRS/ExpressLRS/tree/master                
 
 
 
